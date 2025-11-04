@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\31act\\OneDrive\\Documents\\ostad-asp.net\\Assignments\\Assignment Week 4\\StudentManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3D480D-0101-4200-86FA-22E35A0000D4}|StudentManagement\\StudentManagement.csproj|c:\\users\\31act\\onedrive\\documents\\ostad-asp.net\\assignments\\assignment week 4\\studentmanagement\\studentmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD3D480D-0101-4200-86FA-22E35A0000D4}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\31act\\OneDrive\\Documents\\ostad-asp.net\\Assignments\\Assignment Week 4\\StudentManagement\\StudentManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\31act\\OneDrive\\Documents\\ostad-asp.net\\Assignments\\Assignment Week 4\\StudentManagement\\StudentManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwCIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-03T17:10:48.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
